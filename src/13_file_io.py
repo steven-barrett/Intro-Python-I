@@ -8,7 +8,7 @@ https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
 # Open up the "foo.txt" file (which already exists) for reading
 # Print all the contents of the file, then close the file
 
-f = open("C:/Users/Steve/Documents/Lambda/computerscience/Intro-Python-I\src/foo.txt", "r")
+f = open("C:/Users/Steve/Documents/Lambda/computerscience/Intro-Python-I/src/foo.txt", "r")
 print(f.read())
 
 # Open up a file called "bar.txt" (which doesn't exist yet) for

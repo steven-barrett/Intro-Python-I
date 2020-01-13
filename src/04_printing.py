@@ -4,9 +4,11 @@ how to print using the printf operator, the `format` string
 method, and by using f-strings.
 """
 
+
 x = 10
 y = 2.24552
 z = "I like turtles!"
+
 
 # Using the printf operator (%), print the following feeding in the values of x,
 # y, and z:
@@ -18,3 +20,4 @@ print('x is {}, y is {} z is {}'.format(x, y, z))
 
 # Finally, print the same thing using an f-string
 print(f"x is {x}, y is {y}, z is {z}")
+
